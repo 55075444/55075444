@@ -1,6 +1,8 @@
 ## _Prazer em te conhecer, o meu nome é João_
 
-- Esse repositorio sera usado com meio armazenamento de comando, letra de musicas e links de musicas eletronicas
+logo de começo vou mandar combos de um jogo chamado Blox fruits.
 
 - 
-![](https://media.tenor.com/fkjR6OjERM0AAAAM/busy.gif)
+![](https://media1.tenor.com/m/P_xxL5RhFeoAAAAC/one-piece-blox-fruits.gif)
+
+
